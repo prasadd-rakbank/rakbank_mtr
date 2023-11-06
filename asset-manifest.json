@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rakbank_mtr/static/css/main.75f6e3d0.css",
+    "main.js": "/rakbank_mtr/static/js/main.aa21829f.js",
+    "static/js/787.b0597df0.chunk.js": "/rakbank_mtr/static/js/787.b0597df0.chunk.js",
+    "static/media/home.png": "/rakbank_mtr/static/media/home.4c40863582fb79dad7ae.png",
+    "static/media/airplay.png": "/rakbank_mtr/static/media/airplay.716fcc1a364f6c46e5a4.png",
+    "index.html": "/rakbank_mtr/index.html",
+    "main.75f6e3d0.css.map": "/rakbank_mtr/static/css/main.75f6e3d0.css.map",
+    "main.aa21829f.js.map": "/rakbank_mtr/static/js/main.aa21829f.js.map",
+    "787.b0597df0.chunk.js.map": "/rakbank_mtr/static/js/787.b0597df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f6e3d0.css",
+    "static/js/main.aa21829f.js"
+  ]
+}

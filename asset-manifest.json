@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/rakbank_mtr/static/css/main.75f6e3d0.css",
-    "main.js": "/rakbank_mtr/static/js/main.aa21829f.js",
+    "main.css": "/rakbank_mtr/static/css/main.86647b6a.css",
+    "main.js": "/rakbank_mtr/static/js/main.dcb54f4b.js",
     "static/js/787.b0597df0.chunk.js": "/rakbank_mtr/static/js/787.b0597df0.chunk.js",
-    "static/media/home.png": "/rakbank_mtr/static/media/home.4c40863582fb79dad7ae.png",
-    "static/media/airplay.png": "/rakbank_mtr/static/media/airplay.716fcc1a364f6c46e5a4.png",
+    "static/media/teams.pdf": "/rakbank_mtr/static/media/teams.e750a6b34651e6e65858.pdf",
     "index.html": "/rakbank_mtr/index.html",
-    "main.75f6e3d0.css.map": "/rakbank_mtr/static/css/main.75f6e3d0.css.map",
-    "main.aa21829f.js.map": "/rakbank_mtr/static/js/main.aa21829f.js.map",
+    "main.86647b6a.css.map": "/rakbank_mtr/static/css/main.86647b6a.css.map",
+    "main.dcb54f4b.js.map": "/rakbank_mtr/static/js/main.dcb54f4b.js.map",
     "787.b0597df0.chunk.js.map": "/rakbank_mtr/static/js/787.b0597df0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75f6e3d0.css",
-    "static/js/main.aa21829f.js"
+    "static/css/main.86647b6a.css",
+    "static/js/main.dcb54f4b.js"
   ]
 }
